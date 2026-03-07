@@ -37,7 +37,7 @@ basically 8 type ke datatype hote h hmare paas , jisme 7 primitive hote h and 1 
 Primitive:
     1. number -> 0,-1, -2, 1, 2, 
     2. string  -> "chetan" or 'chetan' or `chetan ${var_name}`
-    3. char  -> 'A' or 'a'
+    3. null -> intentionally empty 
     4. boolean  -> true or false or 1 or 0 
     5. symbol   -> ye ek speacial datatype h 
     6. undefined  -> ye tb hota h jb aap defined kr do kisi chij ko but uski value nhi do toh 
